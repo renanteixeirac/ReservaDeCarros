@@ -20,7 +20,7 @@ Para executar este projeto via **linha de comando** não será necessário o pro
 
 Como entrada do projeto, é necessário um *arquivo de texto* com o nome de "arquivo.txt". Este arquivo deve conter apenas uma linha com os parâmetros para execução do mesmo. Os parâmetros devem ser posicionados da seguinte forma:
 
-<TIPO_CLIENTE>: <QUANTIDADE_DE_PASSAGEIROS>: <DATA 1>, <DATA 2>, <DATA 3>, ...
+<TIPO_CLIENTE>: <QUANTIDADE_DE_PASSAGEIROS>: <DATA_1>, <DATA_2>, <DATA_3>, ...
 
 Exemplo: Normal: 1: 16Mar2009 (seg), 17Mar2009 (ter), 18Mar2009 (qua)
 
