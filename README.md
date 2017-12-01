@@ -20,7 +20,7 @@ _java Main_
 
 Como entrada do projeto, é necessário um *arquivo de texto* com o nome de "arquivo.txt". Este arquivo deve conter apenas uma linha com os parâmetros para execução do mesmo. Os parâmetros devem ser posicionados da seguinte forma:
 
-<TIPO_CARRO>: <QUANTIDADE_DE_PASSAGEIROS>: , , , ...
+<TIPO_CLIENTE>: <QUANTIDADE_DE_PASSAGEIROS>: <DATA1>, <DATA2>, <DATA3>, ...
 
 Exemplo: Normal: 1: 16Mar2009 (seg), 17Mar2009 (ter), 18Mar2009 (qua)
 
