@@ -2,7 +2,7 @@
 
 Programa em Java para resolução do Problema de reserva de carros.
 
-No programa existem três lojas, cada uma trabalhando com um tipo diferente de carro. A SouthCar, que trabalha com carros compactos; a WestCar, que trabalha com carros esporte; e a NorthCar, que trabalha com carros SUV. Cada uma possui taxas variando com o tipo do cliente que a procura e o dia da semana em que o carro será alugado.
+No programa existem três lojas, cada uma trabalhando com um tipo diferente de carro. A SouthCar, que trabalha com carros compactos; a WestCar, que trabalha com carros esporte; e a NorthCar, que trabalha com carros SUV. Cada uma possui taxas variando com o tipo do cliente (que é definido pela sua fidelidade às lojas, podendo então ser Normal ou Premium) que a procura e o dia da semana em que o carro será alugado.
 
 Cada carro possui um limite de passageiros. Os carros compactos tem um limite de 4 passageiros, os esporte comportam até 2 passageiros, e os SUV's comportam no máximo 7 passageiros.
 
@@ -14,13 +14,13 @@ Para executar este projeto **via IDE**, é preciso baixar este projeto e import�
 
 Para executar este projeto via **linha de comando** não será necessário o projeto inteiro. Apenas utilizar os arquivos contidos em _ReservasDeCarros/src/_ e o _arquivo.txt_ e agrupá-los em uma única pasta. Com isso, é preciso acessar esta nova pasta via terminal e digitar os seguintes comandos:
 
-_javac Main.java_
+**_javac Main.java_**
 
-_java Main_
+**_java Main_**
 
 Como entrada do projeto, é necessário um *arquivo de texto* com o nome de "arquivo.txt". Este arquivo deve conter apenas uma linha com os parâmetros para execução do mesmo. Os parâmetros devem ser posicionados da seguinte forma:
 
-<TIPO_CLIENTE>: <QUANTIDADE_DE_PASSAGEIROS>: <DATA1>, <DATA2>, <DATA3>, ...
+<TIPO_CLIENTE>: <QUANTIDADE_DE_PASSAGEIROS>: <DATA 1>, <DATA 2>, <DATA 3>, ...
 
 Exemplo: Normal: 1: 16Mar2009 (seg), 17Mar2009 (ter), 18Mar2009 (qua)
 
