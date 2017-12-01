@@ -2,7 +2,7 @@
 
 Programa em Java para resolução do Problema de reserva de carros.
 
-No programa existem três lojas, cada uma trabalhando com um tipo diferente de carro. A SouthCar, que trabalha com carros compactos; a WestCar, que trabalha com carros esporte; e a NorthCar, que trabalha com carros SUV. Cada uma possui taxas variando com o tipo do cliente (que é definido pela sua fidelidade às lojas, podendo então ser Normal ou Premium) que a procura e o dia da semana em que o carro será alugado.
+No programa existem três lojas, cada uma trabalhando com um tipo diferente de carro. A SouthCar, que trabalha com carros compactos; a WestCar, que trabalha com carros esporte; e a NorthCar, que trabalha com carros SUV. Cada uma possui taxas variando com o tipo do cliente (que é definido pela sua fidelidade às lojas, podendo então ser Normal ou Premium) que a procura e o dia da semana em que o carro será alugado (há uma taxa específica para dias úteis e uma para finais de semana).
 
 Cada carro possui um limite de passageiros. Os carros compactos tem um limite de 4 passageiros, os esporte comportam até 2 passageiros, e os SUV's comportam no máximo 7 passageiros.
 
